@@ -1,5 +1,6 @@
 # Hola 👋, soy Ximena
-🎓 Estudiante de Ingeniería en Sistemas Computacionales
+
+## 🎓 Estudiante de Ingeniería en Sistemas Computacionales
 
 ## 💻 Tecnologías que estoy aprendiendo: 
 
