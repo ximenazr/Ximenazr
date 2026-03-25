@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hola 👋, soy Ximena
 
-<!--
-**ximenazr/Ximenazr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas Computacionales
 
-Here are some ideas to get you started:
+💻 Tecnologías que estoy aprendiendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Lenguajes de programación:
+- Java
+- C++
+
+🔹 Sistemas operativos:
+- Linux
+
+🔹 Bases de datos:
+- MySQL
+
+🔹 Control de versiones:
+- Git
+
+🔹 Entornos de desarrollo:
+- Visual Studio
+- NetBeans
+
+🔹 Redes y ciberseguridad:
+- Nmap
+- Wireshark
+
+🎯 Metas:
+- Aprender más programación
+- Mejorar en desarrollo web
+- Obtener más conocimientos en Ciberseguridad
+- Desarrollar proyectos propios
+- Mejorar mi capacidad para resolver problemas
