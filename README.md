@@ -2,6 +2,8 @@
 
 ## 🎓 Estudiante de Ingeniería en Sistemas Computacionales
 
+---
+
 ### 💻 Tecnologías que estoy aprendiendo: 
 
 🔹 Lenguajes de programación:
