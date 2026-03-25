@@ -2,7 +2,7 @@
 
 ## 🎓 Estudiante de Ingeniería en Sistemas Computacionales
 
-## 💻 Tecnologías que estoy aprendiendo: 
+### 💻 Tecnologías que estoy aprendiendo: 
 
 🔹 Lenguajes de programación:
 - Java
@@ -25,7 +25,7 @@
 - Nmap
 - Wireshark
 -----------------
-## 🎯 Metas académicas:
+### 🎯 Metas académicas:
 - Aprender más programación
 - Mejorar en desarrollo web
 - Obtener más conocimientos en Ciberseguridad
