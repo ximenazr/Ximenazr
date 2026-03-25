@@ -24,7 +24,7 @@
 🔹 Redes y ciberseguridad:
 - Nmap
 - Wireshark
-
+-----------------
 ## 🎯 Metas académicas:
 - Aprender más programación
 - Mejorar en desarrollo web
